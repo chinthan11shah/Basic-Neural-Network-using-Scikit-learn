@@ -1,4 +1,4 @@
-# Basic-Neural-Network-using-Scikit-learn
+# Basic-Neural-Network 
 
 #Breast Cancer Wisconsin (Diagnostic) Data Set
 
